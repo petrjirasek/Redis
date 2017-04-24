@@ -1,4 +1,4 @@
-Kdyby/Redis
+Kdyby/Redis - don't use
 ======
 
 [![Build Status](https://travis-ci.org/Kdyby/Redis.svg?branch=master)](https://travis-ci.org/Kdyby/Redis)
